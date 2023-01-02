@@ -1,0 +1,25 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "**Vamos utilizar esse repositório para as práticas da aula!**",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "start": "node index.js",
+    "brazil": "node index.js brazil",
+    "practice": "clear && node practice.js b",
+    "addcountry": "clear && node practice2.js ",
+    "presentation": "clear && node finalpractice.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasCalabria7/node-package-json-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasCalabria7/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/LucasCalabria7/node-package-json-template#readme"
+}
